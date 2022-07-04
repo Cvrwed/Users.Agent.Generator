@@ -1,4 +1,4 @@
-# usersagents
+# Info
 
 Es un simple generador de users agents usando la lib de [UA](https://github.com/iamdual/ua-generator)
 
@@ -7,7 +7,7 @@ El programa printeara de forma infinita varios users agents
 ## Uso
 
 ```
-$ python pito
+$ python pito.py
 ```
 
 ### Requisitos
