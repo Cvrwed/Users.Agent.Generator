@@ -10,15 +10,28 @@ El programa printeara de forma infinita diversos **Agentes de usuario**
 
 ## Uso
 
+Windows:
 ```
 $ python uag.py
 $ py uag.py 
 ```
 
-### Requisitos
+Linux:
+```
+$ python3 uag.py
+```
+
+### Librerías 
 
 Windows:
 ```bash
 pip install pystyle
 pip install ua-generator
 ```
+
+Linux:
+```bash
+pip3 install pystyle
+pip3 install ua-generator
+```
+
