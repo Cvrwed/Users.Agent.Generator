@@ -11,7 +11,8 @@ El programa printeara de forma infinita diversos **Agentes de usuario**
 ## Uso
 
 ```
-$ python pito.py
+$ python uag.py
+$ py uag.py 
 ```
 
 ### Requisitos
