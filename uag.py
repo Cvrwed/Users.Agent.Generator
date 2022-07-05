@@ -13,6 +13,7 @@ clear()
 purple_to_red = Colors.purple_to_red
 
 Cursor.HideCursor()
+System.Title("Presiona ENTER")
 banner = r"""
    _                        _                    _        
   /\_\                     / /\                 /\ \      
