@@ -2,7 +2,7 @@
 
 It is a simple user agent generator using the lib of [UA](https://github.com/iamdual/ua-generator)
 
-The program will infinitely print several **user agents** and save them in **useragents.txt**
+The program will infinitely print several **User Agents** and save them in **useragents.txt**
 - **¿What is a User Agent?**
 
    Answer: [here](https://en.wikipedia.org/wiki/User_agent#:~:text=In%20computing%2C%20a%20user%20agent,web%20browsers%20and%20email%20readers.)
