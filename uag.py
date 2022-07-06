@@ -47,7 +47,7 @@ while True:
     {Desktop_firefox}
     {Android_chrome}
     {IOS_chrome}
-    {desktop_chrome}
+    {Desktop_chrome}
     {Android_firefox}
     {MacOS_safari}
     {Linux_chrome}"""))
