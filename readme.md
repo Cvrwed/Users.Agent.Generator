@@ -1,8 +1,8 @@
 # Info
 
-Es un simple generador de users agents usando la lib de [UA](https://github.com/iamdual/ua-generator)
+Es un simple generador de **Agentes de Usuario** que utiliza la lib de [UA](https://github.com/iamdual/ua-generator)
 
-El programa printeara de forma infinita diversos **Agentes de usuario** y guardará en **useragents.txt**
+El programa printeara de forma infinita diversos **Agentes de usuario** y los guardará en **useragents.txt**
 
 - **¿Qué es un Agente de usuario?**
 
