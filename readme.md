@@ -25,13 +25,11 @@ $ python3 uag.py
 
 Windows:
 ```bash
-$ pip install pystyle
 $ pip install ua-generator
 ```
 
 Linux:
 ```bash
-$ pip3 install pystyle
 $ pip3 install ua-generator
 ```
 
